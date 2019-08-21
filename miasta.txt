@@ -1,0 +1,7 @@
+Szczecin 11 51
+Warszawa 300 500
+Katowice 400 600
+Krakow 450 700
+Olsztyn 700 10
+Radom 850 750
+Toruñ 400 100
